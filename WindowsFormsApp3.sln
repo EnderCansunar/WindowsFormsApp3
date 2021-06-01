@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3.csproj", "{4A339BAB-E3B8-45DE-82D4-DE0AE9F38FE5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "invise", "..\invise\invise.vdproj", "{598CF0E5-0BA8-40BC-AE7C-F9D3E01C3955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A339BAB-E3B8-45DE-82D4-DE0AE9F38FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A339BAB-E3B8-45DE-82D4-DE0AE9F38FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A339BAB-E3B8-45DE-82D4-DE0AE9F38FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A339BAB-E3B8-45DE-82D4-DE0AE9F38FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598CF0E5-0BA8-40BC-AE7C-F9D3E01C3955}.Debug|Any CPU.ActiveCfg = Debug
+		{598CF0E5-0BA8-40BC-AE7C-F9D3E01C3955}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAF908E2-842B-4BBD-BDC5-ADD176B476E3}
+	EndGlobalSection
+EndGlobal
